@@ -104,7 +104,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  line-height: 100%;
+  line-height: 1;
   padding-bottom: 5px;
 }
 
@@ -112,7 +112,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  line-height: 100%;
+  line-height: 1;
   color: #fff;
   width: 225px;
   background: transparent;
@@ -147,7 +147,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  line-height: 100%;
+  line-height: 1;
 }
 
 .search-form__pseudo-checkbox {
@@ -201,7 +201,7 @@ ol {
   font-family: "Oswald", sans-serif;
   font-weight: 700;
   font-size: 75px;
-  line-height: 94%;
+  line-height: 0.94;
   text-transform: uppercase;
 }
 
@@ -266,7 +266,7 @@ ol {
   font-family: "Oswald", sans-serif;
   font-weight: 700;
   font-size: 30px;
-  line-height: 100%;
+  line-height: 1;
   text-transform: uppercase;
   white-space: nowrap;
   text-overflow: ellipsis;
@@ -291,7 +291,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
-  line-height: 16.2px;
+  line-height: 1.0125;
 }
 
 .content__video-card-thumbnail {
@@ -315,7 +315,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 100%;
+  line-height: 1;
   text-align: center;
   cursor: pointer;
 }
