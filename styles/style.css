@@ -214,7 +214,6 @@ ol {
   position: relative;
   height: 298px;
   overflow-y: auto;
-  overflow-x: hidden;
   padding-right: 3px;
 }
 
